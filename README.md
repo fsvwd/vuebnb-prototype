@@ -14,4 +14,6 @@ To clone this code on your local machine, use the following command:
 $ git clone https://github.com/vuejsdevelopers/vuebnb-project.git
 ```
 
-> Loving Vue.js? Join [Vue.js Developers](https://vuejsdevelopers.com), a community of thousands of web developers passionate about learning and building with Vue.js.
+* * *
+
+*Loving Vue.js? Join [Vue.js Developers](https://vuejsdevelopers.com), a community of thousands of web developers passionate about learning and building with Vue.js.*
