@@ -11,7 +11,7 @@ This repository has the required code for **chapter 2 of the book only**. If you
 To clone this code on your local machine, use the following command:
 
 ```bash
-$ git clone https://github.com/vuejsdevelopers/vuebnb-project.git
+$ git clone https://github.com/fsvwd/vuebnb-project.git
 ```
 
 * * *
